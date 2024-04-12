@@ -2,4 +2,4 @@ db/
 logs/
 template/__pycache__/
 !/images/
-!/images/
+!./.idea/
