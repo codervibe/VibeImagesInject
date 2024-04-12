@@ -1,4 +1,4 @@
-# VibeImgInject
+# VibeImagesInject
 * 图片 隐写术 
 * 可以将 一定的内容写入到 图片中
 ~~~cmd
