@@ -1,0 +1,4 @@
+github.com/blackhat-go/bhg v0.0.0-20230306164658-7d3318a7a60b h1:ADBV6tPjfIzECopzQ5GWv43Tk5Cv86f0SARTee4j3Hc=
+github.com/blackhat-go/bhg v0.0.0-20230306164658-7d3318a7a60b/go.mod h1:a42vHEya65PkqV3t+1Q0BLcL8QzkYaMPkK/duoDFV4c=
+github.com/spf13/pflag v1.0.5 h1:iy+VFUOCP1a+8yFto/drg2CJ5u0yRoB7fZw3DKv/JXA=
+github.com/spf13/pflag v1.0.5/go.mod h1:McXfInJRrz4CZXVZOBLb0bTZqETkiAhM9Iw0y3An2Bg=
