@@ -1,5 +1,6 @@
 # VibeImgInject
-
+* 图片 隐写术 
+* 可以将 一定的内容写入到 图片中
 ~~~cmd
 go run ./main.go
   -i, --input string           原始映像文件的路径
